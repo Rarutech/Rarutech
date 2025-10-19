@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, TypeScript, JavaScript, Flutter
-- **Backend:** Java, Kotlin
+- **Backend:** Java, Kotlin, Python
 
 ## 🌱 Experience
 - Currently seeking professional opportunities. Eager to learn and grow!
