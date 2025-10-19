@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ralph Mamaril 👋
 
-<!--
-**Rarutech/Rarutech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- **Student developer** experienced in both backend and frontend.
+- Passionate about building modern web and mobile applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, JavaScript, Flutter
+- **Backend:** Java, Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Experience
+- Currently seeking professional opportunities. Eager to learn and grow!
+
+## 🔗 Connect with Me
+- [LinkedIn: ralph-mamaril](https://www.linkedin.com/in/ralph-mamaril/)
+
+## 🎨 Hobbies & Interests
+- Creating art and experimenting in Blender
+- Playing video games
+
+## 🧭 Motto
+> Carpe diem.
+
+---
+
+Feel free to reach out if you want to collaborate or chat about tech, art, or games!
